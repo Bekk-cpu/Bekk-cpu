@@ -24,7 +24,7 @@ Building a healthcare platform connecting patients and pharmacies through medici
 - Working on asynchronous processing and event-driven workflows.
 - Designing data flows and platform functionality with security and performance in mind.
 
-[Website](https://endod.io/)
+[Visit Endod](https://endod.io/)
 
 ### Nova Signages — Business Management Platform
 **Full-stack development**
@@ -34,7 +34,7 @@ Built a web-based system for an LED signage business, contributing to both front
 - Developed application functionality across the stack.
 - Worked on integrating the user interface with backend services.
 
-[Visit Website](https://novasignages.com/)
+[Visit Nova Signages](https://novasignages.com/)
 
 ### WeCare — Patient–Doctor Appointment Platform
 **Frontend development**
